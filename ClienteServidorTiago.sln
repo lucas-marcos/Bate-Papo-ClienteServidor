@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteServidorTiago", "ClienteServidorTiago.csproj", "{21983CE6-9B54-4CE0-8B81-640FCD9372AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "..\Cliente\Cliente.csproj", "{F661F0B9-E8D5-448F-80ED-F4587BCCFBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21983CE6-9B54-4CE0-8B81-640FCD9372AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21983CE6-9B54-4CE0-8B81-640FCD9372AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21983CE6-9B54-4CE0-8B81-640FCD9372AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21983CE6-9B54-4CE0-8B81-640FCD9372AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F661F0B9-E8D5-448F-80ED-F4587BCCFBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F661F0B9-E8D5-448F-80ED-F4587BCCFBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F661F0B9-E8D5-448F-80ED-F4587BCCFBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F661F0B9-E8D5-448F-80ED-F4587BCCFBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F66E4A-93BE-49B5-9A2B-A2B94B878489}
+	EndGlobalSection
+EndGlobal
